@@ -1,3 +1,7 @@
+// After the user types the option to quit the program, a confirmation message is displayed allowing for the user to type either
+// Y or N (non-case sensitive answer); the program runs again if the user types N and finishes if the user types Y (asks again if
+// another letter is entered)
+
 using System;
 
 class Program
